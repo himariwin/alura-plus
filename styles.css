@@ -156,6 +156,7 @@ body {
     background-color: var(--botao-efeito);
     color: var(--branco-principal);
 }
+<<<<<<< HEAD
 
 @media screen and (max-width: 768px) {
     .container {
